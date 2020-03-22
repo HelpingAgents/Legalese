@@ -127,8 +127,8 @@ Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden
 
 **Eingesetzte Dienste und Diensteanbieter:**
 
-- **●●**** Heroku**: Webhosting und infrastrukturelle Dienstleistungen; Dienstleister: Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, USA; Webseite: [https://www.heroku.com/](https://www.heroku.com/) ;Privacy Policy: [https://www.salesforce.com/company/privacy/full\_privacy/](https://www.salesforce.com/company/privacy/full_privacy/); Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): [https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&amp;status=Active).
-- **●●**** Zeit**: Content Delivery Networt; Dienstanbieter: ZEIT, Inc, 340 S Lemon Ave #4133, Walnut, CA 91789, USA; Webseite: [https://zeit.co](https://zeit.co) ; Datenschutzerklärung: [https://zeit.co/privacy](https://zeit.co/privacy) ; Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): [https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&amp;status=Active)
+- **Heroku**: Webhosting und infrastrukturelle Dienstleistungen; Dienstleister: Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, USA; Webseite: [https://www.heroku.com/](https://www.heroku.com/) ;Privacy Policy: [https://www.salesforce.com/company/privacy/full\_privacy/](https://www.salesforce.com/company/privacy/full_privacy/); Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): [https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&amp;status=Active).
+- **Zeit**: Content Delivery Networt; Dienstanbieter: ZEIT, Inc, 340 S Lemon Ave #4133, Walnut, CA 91789, USA; Webseite: [https://zeit.co](https://zeit.co) ; Datenschutzerklärung: [https://zeit.co/privacy](https://zeit.co/privacy) ; Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): [https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&amp;status=Active)
 
 ## **Planung, Organisation und Hilfswerkzeuge**
 
@@ -142,10 +142,10 @@ Sofern Nutzer im Rahmen der Kommunikation, von Geschäfts- oder anderen Beziehun
 
 ### **Twilio:**
 
-- Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Telefonnummern), Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
-- Betroffene Personen: Kommunikationspartner, Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
-- Zwecke der Verarbeitung: Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher), Tracking (z.B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies), Profiling (Erstellen von Nutzerprofilen), Kontaktanfragen und Kommunikation.
-- Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+- **Verarbeitete Datenarten**: Bestandsdaten (Namen), Kontaktdaten (Telefonnummern), Inhaltsdaten (z.B. Texteingaben), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+- **Betroffene Personen**: Kommunikationspartner, Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
+- **Zwecke der Verarbeitung**: Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher), Tracking (z.B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies), Profiling (Erstellen von Nutzerprofilen), Kontaktanfragen und Kommunikation.
+- **Rechtsgrundlagen**: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
 ## **Löschung von Daten**
 
