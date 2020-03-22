@@ -1,9 +1,8 @@
-##
-## Datenschutzerklärung
+# Datenschutzerklärung
 
 Stand: 22. März 2020
 
-**Inhaltsübersicht**
+## **Inhaltsübersicht**
 
 - Verantwortlicher
 - Übersicht der Verarbeitungen
@@ -20,43 +19,35 @@ Stand: 22. März 2020
 - Rechte der betroffenen Personen
 - Begriffsdefinitionen
 
-**Verantwortlicher**
+## **Verantwortlicher**
 
 !!!TODO!!!
 
-**Übersicht der Verarbeitungen**
+## **Übersicht der Verarbeitungen**
 
 Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
 
-**Arten der verarbeiteten Daten**
+### **Arten der verarbeiteten Daten**
 
 - Bestandsdaten (Namen).
 - Kontaktdaten (Telefonnummern).
 - Meta-/Kommunikationsdaten (IP-Adressen).
 - Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
 
-**Kategorien betroffener Personen**
+### **Kategorien betroffener Personen**
 
 - Kommunikationspartner.
 - Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 
-**Zwecke der Verarbeitung**
+### **Zwecke der Verarbeitung**
 
--
-●●
-#
-[ANNOTATION:
-
-BY &#39;luo yi&#39;
-ON &#39;2020-03-22T11:43:45&#39;
-NOTE: &#39;Drin lassen, weil vielleicht können wir SMS schicken&#39;]
-Direktmarketing (z.B. per SMS).
+- Direktmarketing (z.B. per SMS).
 - Kontaktanfragen und Kommunikation.
 - Sicherheitsmaßnahmen.
 - Vertragliche Leistungen und Service.
 - Verwaltung und Beantwortung von Anfragen.
 
-**Maßgebliche Rechtsgrundlagen**
+### **Maßgebliche Rechtsgrundlagen**
 
 Im Folgenden teilen wir die Rechtsgrundlagen der Datenschutzgrundverordnung (DSGVO), auf deren Basis wir die personenbezogenen Daten verarbeiten, mit. Bitte beachten Sie, dass zusätzlich zu den Regelungen der DSGVO die nationalen Datenschutzvorgaben in Ihrem bzw. unserem Wohn- und Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
 
@@ -66,7 +57,7 @@ Im Folgenden teilen wir die Rechtsgrundlagen der Datenschutzgrundverordnung (DSG
 
 **Nationale Datenschutzregelungen in Deutschland** : Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Des Weiteren regelt es die Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 BDSG), insbesondere im Hinblick auf die Begründung, Durchführung oder Beendigung von Beschäftigungsverhältnissen sowie die Einwilligung von Beschäftigten. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
 
-**Sicherheitsmaßnahmen**
+## **Sicherheitsmaßnahmen**
 
 Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
 
@@ -74,17 +65,17 @@ Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integ
 
 **SSL-Verschlüsselung (https)**: Um Ihre via unser Online-Angebot übermittelten Daten zu schützen, nutzen wir eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
 
-**Übermittlung und Offenbarung von personenbezogenen Daten**
+## **Übermittlung und Offenbarung von personenbezogenen Daten**
 
 Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass die Daten an andere Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt oder sie ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können z.B. Zahlungsinstitute im Rahmen von Zahlungsvorgängen, mit IT-Aufgaben beauftragte Dienstleister oder Anbieter von Diensten und Inhalten, die in eine Webseite eingebunden werden, gehören. In solchen Fall beachten wir die gesetzlichen Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
 
-**Datenverarbeitung in Drittländern**
+## **Datenverarbeitung in Drittländern**
 
 Sofern wir Daten in einem Drittland (d.h., außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung im Rahmen der Inanspruchnahme von Diensten Dritter oder der Offenlegung bzw. Übermittlung von Daten an andere Personen, Stellen oder Unternehmen stattfindet, erfolgt dies nur im Einklang mit den gesetzlichen Vorgaben.
 
 Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich oder gesetzlich erforderlicher Übermittlung verarbeiten oder lassen wir die Daten nur in Drittländern mit einem anerkannten Datenschutzniveau, zu denen die unter dem &quot;Privacy-Shield&quot; zertifizierten US-Verarbeiter gehören, oder auf Grundlage besonderer Garantien, wie z.B. vertraglicher Verpflichtung durch sogenannte Standardschutzklauseln der EU-Kommission, des Vorliegens von Zertifizierungen oder verbindlicher interner Datenschutzvorschriften, verarbeiten (Art. 44 bis 49 DSGVO, Informationsseite der EU-Kommission:[https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection\_de](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_de) ).
 
-**Einsatz von Cookies**
+## **Einsatz von Cookies**
 
 Cookies sind Textdateien, die Daten von besuchten Websites oder Domains enthalten und von einem Browser auf dem Computer des Benutzers gespeichert werden. Ein Cookie dient in erster Linie dazu, die Informationen über einen Benutzer während oder nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Zu den gespeicherten Angaben können z.B. die Spracheinstellungen auf einer Webseite, der Loginstatus, ein Warenkorb oder die Stelle, an der ein Video geschaut wurde, gehören. Zu dem Begriff der Cookies zählen wir ferner andere Technologien, die die gleichen Funktionen wie Cookies erfüllen (z.B., wenn Angaben der Nutzer anhand pseudonymer Onlinekennzeichnungen gespeichert werden, auch als &quot;Nutzer-IDs&quot; bezeichnet)
 
@@ -107,7 +98,7 @@ Cookies sind Textdateien, die Daten von besuchten Websites oder Domains enthalte
 - **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 - **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-**Registrierung, Anmeldung und Nutzerkonto**
+## **Registrierung, Anmeldung und Nutzerkonto**
 
 Nutzer können ein Nutzerkonto anlegen. Im Rahmen der Registrierung werden den Nutzern die erforderlichen Pflichtangaben mitgeteilt und zu Zwecken der Bereitstellung des Nutzerkontos auf Grundlage vertraglicher Pflichterfüllung verarbeitet. Zu den verarbeiteten Daten gehören insbesondere die Login-Informationen (Name, Passwort sowie eine E-Mail-Adresse). Die im Rahmen der Registrierung eingegebenen Daten werden für die Zwecke der Nutzung des Nutzerkontos und dessen Zwecks verwendet.
 
@@ -120,7 +111,7 @@ Im Rahmen der Inanspruchnahme unserer Registrierungs- und Anmeldefunktionen sowi
 - **Zwecke der Verarbeitung:** Vertragliche Leistungen und Service, Sicherheitsmaßnahmen, Verwaltung und Beantwortung von Anfragen.
 - **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-**Bereitstellung des Onlineangebotes und Webhosting**
+## **Bereitstellung des Onlineangebotes und Webhosting**
 
 Um unser Onlineangebot sicher und effizient bereitstellen zu können, nehmen wir die Leistungen von einem oder mehreren Webhosting-Anbietern in Anspruch, von deren Servern (bzw. von ihnen verwalteten Servern) das Onlineangebot abgerufen werden kann. Zu diesen Zwecken können wir Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste sowie Sicherheitsleistungen und technische Wartungsleistungen in Anspruch nehmen.
 
@@ -139,7 +130,7 @@ Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden
 - **●●**** Heroku**: Webhosting und infrastrukturelle Dienstleistungen; Dienstleister: Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, USA; Webseite: [https://www.heroku.com/](https://www.heroku.com/) ;Privacy Policy: [https://www.salesforce.com/company/privacy/full\_privacy/](https://www.salesforce.com/company/privacy/full_privacy/); Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): [https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&amp;status=Active).
 - **●●**** Zeit**: Content Delivery Networt; Dienstanbieter: ZEIT, Inc, 340 S Lemon Ave #4133, Walnut, CA 91789, USA; Webseite: [https://zeit.co](https://zeit.co) ; Datenschutzerklärung: [https://zeit.co/privacy](https://zeit.co/privacy) ; Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): [https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&amp;status=Active)
 
-**Planung, Organisation und Hilfswerkzeuge**
+## **Planung, Organisation und Hilfswerkzeuge**
 
 Wir setzen Dienstleistungen, Plattformen und Software anderer Anbieter (nachfolgend bezeichnet als &quot;Drittanbieter&quot;) zu Zwecken der Organisation, Verwaltung, Planung sowie Erbringung unserer Leistungen ein. Bei der Auswahl der Drittanbieter und ihrer Leistungen beachten wir die gesetzlichen Vorgaben.
 
@@ -149,14 +140,14 @@ Sofern Nutzer im Rahmen der Kommunikation, von Geschäfts- oder anderen Beziehun
 
 **Hinweise zu Rechtsgrundlagen:** Sofern wir die Nutzer um deren Einwilligung in den Einsatz der Drittanbieter bitten, ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ferner kann deren Einsatz ein Bestandteil unserer (vor)vertraglichen Leistungen sein, sofern der Einsatz der Drittanbieter in diesem Rahmen vereinbart wurde. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
 
-**Twilio:**
+### **Twilio:**
 
 - Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Telefonnummern), Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
 - Betroffene Personen: Kommunikationspartner, Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 - Zwecke der Verarbeitung: Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher), Tracking (z.B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies), Profiling (Erstellen von Nutzerprofilen), Kontaktanfragen und Kommunikation.
 - Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-**Löschung von Daten**
+## **Löschung von Daten**
 
 Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z.B., wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht erforderlich sind).
 
@@ -164,13 +155,13 @@ Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zul
 
 Weitere Hinweise zu der Löschung von personenbezogenen Daten können ferner im Rahmen der einzelnen Datenschutzhinweise dieser Datenschutzerklärung erfolgen.
 
-**Änderung und Aktualisierung der Datenschutzerklärung**
+## **Änderung und Aktualisierung der Datenschutzerklärung**
 
 Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
 
 Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
 
-**Rechte der betroffenen Personen**
+## **Rechte der betroffenen Personen**
 
 Ihnen stehen als Betroffene nach der DSGVO verschiedene Rechte zu, die sich insbesondere aus Art. 15 bis 18 und 21 DSGVO ergeben:
 
@@ -182,7 +173,7 @@ Ihnen stehen als Betroffene nach der DSGVO verschiedene Rechte zu, die sich insb
 - **Recht auf Datenübertragbarkeit:** Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu fordern.
 - **Beschwerde bei Aufsichtsbehörde:** Sie haben ferner nach Maßgabe der gesetzlichen Vorgaben das Recht, bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Ihres gewöhnlichen Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes Beschwerde einzulegen, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
 
-**Begriffsdefinitionen**
+## **Begriffsdefinitionen**
 
 In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutzerklärung verwendeten Begrifflichkeiten. Viele der Begriffe sind dem Gesetz entnommen und vor allem im Art. 4 DSGVO definiert. Die gesetzlichen Definitionen sind verbindlich. Die nachfolgenden Erläuterungen sollen dagegen vor allem dem Verständnis dienen. Die Begriffe sind alphabetisch sortiert.
 
